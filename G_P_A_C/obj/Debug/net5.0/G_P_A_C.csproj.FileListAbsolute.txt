@@ -1,0 +1,16 @@
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\bin\Debug\net5.0\G_P_A_C.exe
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\bin\Debug\net5.0\G_P_A_C.deps.json
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\bin\Debug\net5.0\G_P_A_C.runtimeconfig.json
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\bin\Debug\net5.0\G_P_A_C.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\bin\Debug\net5.0\G_P_A_C.dll
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\bin\Debug\net5.0\G_P_A_C.pdb
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.dll
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\refint\G_P_A_C.dll
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.pdb
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\G_P_A_C.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\G_P_A_C\G_P_A_C\obj\Debug\net5.0\ref\G_P_A_C.dll
